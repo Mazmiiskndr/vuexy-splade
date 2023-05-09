@@ -58,6 +58,7 @@ if (document.getElementById("layout-menu")) {
     let menuToggler = document.querySelectorAll(".layout-menu-toggle");
     menuToggler.forEach((item) => {
         item.addEventListener("click", (event) => {
+            console.log(event);
             event.preventDefault();
             window.Helpers.toggleCollapsed();
             // Enable menu state with local storage support if enableMenuLocalStorage = true from config.js

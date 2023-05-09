@@ -1,11 +1,11 @@
-import "./bootstrap";
-import "../css/app.css";
+// import "./bootstrap";
+// import "../css/app.css";
 import "@protonemedia/laravel-splade/dist/style.css";
 import "../assets/backend/assets/vendor/fonts/fontawesome.css";
 import "../assets/backend/assets/vendor/fonts/tabler-icons.css";
 import "../assets/backend/assets/vendor/fonts/flag-icons.css";
-import "../assets/backend/assets/vendor/css/rtl/core.css";
-import "../assets/backend/assets/vendor/css/rtl/theme-default.css";
+// import "../assets/backend/assets/vendor/css/rtl/core.css";
+// import "../assets/backend/assets/vendor/css/rtl/theme-default.css";
 import "../assets/backend/assets/css/demo.css";
 import "../assets/backend/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css";
 import "../assets/backend/assets/vendor/libs/node-waves/node-waves.css";
